@@ -1,4 +1,6 @@
-# mac-os-tutorials
+## Table of Contents
+[Issue 1: ExFAT mounts in READ-only Mode](#)
+
 ## Issue 1: ExFAT mounts in READ-only Mode
 To fix it:</br>
 1. Run `diskutil list` in the terminal, and find the name of the ExFAT disk. It ends with a pattern close to `s1` (e.g., `disk4s1`).
