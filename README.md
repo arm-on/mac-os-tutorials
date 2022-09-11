@@ -1,5 +1,5 @@
 ## Table of Contents
-[Issue 1: ExFAT mounts in READ-only Mode](#)
+[Issue 1: ExFAT mounts in READ-only Mode](#issue-1-exfat-mounts-in-read-only-mode)
 
 ## Issue 1: ExFAT mounts in READ-only Mode
 To fix it:</br>
